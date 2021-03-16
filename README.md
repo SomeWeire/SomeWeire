@@ -34,7 +34,7 @@ organized, whether for a treasure hunt between friends, an escape game, a race o
   
   ***
   
- * **Some Wei're Discord Bot** : An **online game** of **cryptographic riddles solving** and **virtual treasure hunting**, playable on **Discord**. 
+ * **Some Wei're Discord Bot** : An **online tabletop game** of **cryptographic puzzles solving** and **virtual treasure hunting**, playable on **Discord**. 
  
  ![alt text](https://cdn.trictrac.net/documents/formats/enlargement/documents/originals/7f/32/3664e2a3bb6f4da5dfe85785a5113615fd7ad69d264da942c3bb97c0eabe.png "Some Wei're Bot 1")
  ![alt text](https://cdn1.trictrac.net/documents/formats/enlargement/documents/originals/72/1d/af0cc058c84fcc346dbfba2bb0418ecaf793eee715021588167b31eaaf39.png "Some Wei're Bot 2")
