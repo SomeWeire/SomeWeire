@@ -12,7 +12,7 @@ more specifically Ethereum blockchain and **decentralized apps**. I have underto
 
 I make a point on having efficient work ethics as a developper : 
 
-1. In coding architecture, using **design patterns**, writing understandable and maintenable code using **SOLID principles**, and creating efficient **data flow architectures**.
+1. In coding architecture, using **design patterns**, writing understandable and maintenable code using **SOLID principles**, and creating efficient **data flow oriented architectures**.
 
 2. In continuous integration, testing, and continuous delivery, respecting simple integration flows, **separate environments** and keeping them clean, and use current 
 and updated tools.
